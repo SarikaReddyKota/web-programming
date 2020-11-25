@@ -1,4 +1,4 @@
-package com.vijaya.firebase;
+package com.sarika.firebase;
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.vijaya.firebase;
+package com.sarika.firebase;
 
 /**
  * Created by Vijaya on 11/15/2018.

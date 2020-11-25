@@ -1,4 +1,4 @@
-package com.vijaya.firebase;
+package com.sarika.firebase;
 
 import android.app.Activity;
 import android.app.AlertDialog;
